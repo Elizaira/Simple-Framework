@@ -73,6 +73,9 @@ a:hover {
   margin-top: 25%;
   margin-bottom: -20px;
 }
+.jquery-try-code {
+  margin-top: -40px;
+}
 textarea {
   width: 100%;
   background-color: #ffffff;
@@ -127,7 +130,6 @@ textarea {
   font-family: "Dekko";
   font-size: 50px;
   color: #1f9653;
-  /*text-shadow: 0 0 5px #1f9653;*/
 }
 .header-para {
   color: #1f9653;
@@ -148,6 +150,13 @@ hr.style15:after {
   padding: 0 10px;
   background: #ffffff;
   color: #1f9653;
+}
+.getting-started {
+  margin-top: 100px;
+}
+.gs {
+  color: #000;
+  font-size: 17px;
 }
 
 .body-content {
@@ -457,6 +466,7 @@ ul {
 }
 .navigation-left {
   float: left;
+  /*margin-top: 10px;*/
   width: 60%;
 }
 .navigation-right {
@@ -557,6 +567,7 @@ code {
   margin-bottom: 10%;
 }
 .footer {
+  /*margin-top:20%;*/
   background: rgb(68, 212, 175);
   background: linear-gradient(
     90deg,
